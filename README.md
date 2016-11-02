@@ -2,9 +2,9 @@
 
 ## About
 
-This is a python/caffe implementation of [Kaipeng Zhang](https://kpzhang93.github.io/)'s work.
+This is a python implementation of [Kaipeng Zhang](https://kpzhang93.github.io/)'s work on ``Detection and Alignment using Multi-task Cascaded Convolutional Neural Networks``.
 
-Paper: Detection and Alignment using Multi-task Cascaded Convolutional Neural Networks. see [link](https://kpzhang93.github.io/papers/spl.pdf)
+Paper: see [link](https://kpzhang93.github.io/papers/spl.pdf)
 
 Matlab Code: see [link](https://github.com/kpzhang93/MTCNN_face_detection_alignment)
 
